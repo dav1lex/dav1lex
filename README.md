@@ -31,7 +31,7 @@ Built with Piotr Nietrzebka (ITm8). Voice input, task extraction, workflow autom
 **TTS Research** — Benchmarking open-source speech synthesis
 Systematic evaluation of Chatterbox, XTTS-v2, Kokoro. ASR evaluation via faster-whisper.
 Exploring prosodic behavior and text normalization in autoregressive models.
- *[Blog](https://dav1lex.titancode.pl)**
+ **[Blog](https://dav1lex.titancode.pl)**
 ---
  
 ## Stack
