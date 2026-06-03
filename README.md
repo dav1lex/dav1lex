@@ -1,8 +1,6 @@
 # Omer Uğur
  
-Full-stack developer. Istanbul originally, Warsaw for several years now.
-I build AI systems, ship products, and leave clients with code they actually own.
- 
+Full-stack developer. Istanbul originally, Warsaw for several years now 
 Operating under **[Titancode](https://titancode.pl)** no agency overhead, no account managers, just working software.
  
 ---
@@ -18,16 +16,6 @@ Next.js, TypeScript, Cloudflare Workers/D1/KV/Vectorize/Pages.
 From idea to deployed URL, handled end to end.
  
 ---
- 
-## Selected Work
- 
-**AIREA** — Multi-agent AI platform for real estate (Warsaw market)
-8 specialized agents, RAG on Cloudflare Vectorize, bge-m3 multilingual embeddings,
-SSE streaming, function-calling handoffs, Bloomberg-terminal aesthetic frontend.
- 
-**Entee.ai** — WhatsApp voice-to-task SaaS for Polish field workers
-Built with Piotr Nietrzebka (ITm8). Voice input, task extraction, workflow automation.
- 
 **TTS Research** — Benchmarking open-source speech synthesis
 Systematic evaluation of Chatterbox, XTTS-v2, Kokoro. ASR evaluation via faster-whisper.
 Exploring prosodic behavior and text normalization in autoregressive models.
@@ -45,16 +33,6 @@ Infra        Docker, VPS, Linux, nginx
 Agents       Multi-agent orchestration, tool calling, vector search
 Audio        WhisperX, faster-whisper, XTTS-v2, Kokoro, Chatterbox
 ```
- 
----
- 
-## How I Work
- 
-I take on projects where I'm the one building.
- 
-Fixed price for scoped work. Hourly for ongoing modules.
-Full code transfer on delivery. No retainer for access to your own system.
-Contract, repo, docs — all yours.
  
 Available for subcontracting and direct client work.
  
