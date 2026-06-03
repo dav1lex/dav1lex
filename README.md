@@ -16,7 +16,7 @@ Next.js, TypeScript, Cloudflare Workers/D1/KV/Vectorize/Pages.
 From idea to deployed URL, handled end to end.
  
 ---
-**TTS Research** — Benchmarking open-source speech synthesis
+**TTS Research** Benchmarking open-source speech synthesis
 Systematic evaluation of Chatterbox, XTTS-v2, Kokoro. ASR evaluation via faster-whisper.
 Exploring prosodic behavior and text normalization in autoregressive models.
  **[Blog](https://dav1lex.titancode.pl)**
@@ -36,6 +36,6 @@ Audio        WhisperX, faster-whisper, XTTS-v2, Kokoro, Chatterbox
  
 Available for subcontracting and direct client work.
  
-→ **[titancode.pl](https://titancode.pl)** · **omer@titancode.pl**
+→ **[titancode.pl](https://titancode.pl)** 
  
  <img src="https://user-images.githubusercontent.com/79334944/203161744-d8e42138-c0ac-4ce0-bc15-1b1944b4f6b7.gif" size="200px" />
