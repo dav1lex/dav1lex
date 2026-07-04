@@ -11,7 +11,7 @@ rag, multi-agent, knowledge bases, llm wiring. self-hosted, you keep the repo, t
 next.js, typescript, cloudflare (workers, d1, kv, vectorize, pages, r2). idea → deployed url. done. i don't disappear after the invoice for real.
 
 **tts research (side quest).** benchmarking open-source speech synthesis. chatterbox, xtts-v2, kokoro. asr with faster-whisper. nerdy prosody + text-normalization stuff.
-→ **[blog](https://dav1lex.github.io)**
+→ **[blog](https://dav1lex.titancode.pl)**
 
 
 ## stack, not a flex list, what i actually touch daily
@@ -29,8 +29,11 @@ audio        whisperx, faster-whisper, xtts-v2, kokoro, chatterbox
 ## hire?
 
 yes i do subcontracting and direct work.  
+yes i handle polish clients, in polish.  
+yes i'll write the code, deploy it, document it, and answer your dms when it breaks.  
+yes i'll tell you if your idea is bad.  no i won't build it wrong just because you're paying.  
 no i won't drown you in status updates and process for process's sake.  
-yes i'll write the code, deploy it, document it, and answer your dms when it breaks.
+no i won't disappear for 3 weeks then say "sorry, been busy."
 
 → **[titancode.pl](https://titancode.pl)**
 
