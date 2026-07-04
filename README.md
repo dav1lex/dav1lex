@@ -1,9 +1,6 @@
 # Omer Ugur
 
 full-stack dev. made in turkiye, forged in poland. 
-i run solo under **[titancode](https://titancode.pl)**.
-
----
 
 ## what i do
 
@@ -16,9 +13,8 @@ next.js, typescript, cloudflare (workers, d1, kv, vectorize, pages, r2). idea �
 **tts research (side quest).** benchmarking open-source speech synthesis. chatterbox, xtts-v2, kokoro. asr with faster-whisper. nerdy prosody + text-normalization stuff.
 → **[blog](https://dav1lex.titancode.pl)**
 
----
 
-## stack (not a flex list, what i actually touch daily)
+## stack, not a flex list, what i actually touch daily
 
 ```
 language     typescript / node
@@ -30,12 +26,10 @@ agents       multi-agent orchestration, tool calling, vector search
 audio        whisperx, faster-whisper, xtts-v2, kokoro, chatterbox
 ```
 
----
-
-## hire me?
+## hire?
 
 yes i do subcontracting and direct work.  
-no i won't drown you in status updates and process for process's sake.
+no i won't drown you in status updates and process for process's sake.  
 yes i'll write the code, deploy it, document it, and answer your dms when it breaks.
 
 → **[titancode.pl](https://titancode.pl)**
