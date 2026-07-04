@@ -36,6 +36,6 @@ yes i'll write the code, deploy it, document it, and answer your dms when it bre
 
 ---
 
-<sub>im the dev your project manager wishes they hired. except i don't need one.</sub>
+<sub>the dev, that your project manager wishes they hired.</sub>
 
 <img src="https://user-images.githubusercontent.com/79334944/203161744-d8e42138-c0ac-4ce0-bc15-1b1944b4f6b7.gif" width="200" />
