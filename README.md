@@ -11,7 +11,7 @@ rag, multi-agent, knowledge bases, llm wiring. self-hosted, you keep the repo, t
 next.js, typescript, cloudflare (workers, d1, kv, vectorize, pages, r2). idea → deployed url. done. i don't disappear after the invoice for real.
 
 **tts research (side quest).** benchmarking open-source speech synthesis. chatterbox, xtts-v2, kokoro. asr with faster-whisper. nerdy prosody + text-normalization stuff.
-→ **[blog](https://dav1lex.titancode.pl)**
+→ **[blog](https://dav1lex.github.io)**
 
 
 ## stack, not a flex list, what i actually touch daily
